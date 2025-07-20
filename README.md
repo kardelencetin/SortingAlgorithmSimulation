@@ -4,4 +4,4 @@ This android application has been developed to simulate sorting algorithms and t
 
 ## Demo
 
-<img src="sorting.gif" width="400" height="400" alt="Simulation Demo" />
+<img src="sorting.gif" width="300" height="800" alt="Simulation Demo" />
